@@ -6,7 +6,7 @@ module.exports = {
       summary: ``
     },
     description: `A detailed book on ReactJS`,
-    siteUrl: ``,
+    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `snehaprabha183`,
     },
