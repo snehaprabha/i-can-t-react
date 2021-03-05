@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "",
   "bugs": {
-    "url": "http:/"
+    "url": "https://github.com/gatsbyjs/gatsby/"
   },
   "dependencies": {
     "gatsby": "^3.0.1",
@@ -35,7 +35,7 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/gatsbyjs/",
   "keywords": [
     "gatsby"
   ],
@@ -43,7 +43,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/gatsbyjs/"
   },
   "scripts": {
     "build": "gatsby build",

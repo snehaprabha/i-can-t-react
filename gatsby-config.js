@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `i can't react`,
     author: {
-      name: `Sneha`,
-      summary: ``
+      name: `sneha`,
+      summary: ``,
     },
     description: `A detailed book on ReactJS`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://gatsbystarterblogsource.io/`,
     social: {
       twitter: `snehaprabha183`,
     },
